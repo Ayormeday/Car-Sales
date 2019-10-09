@@ -1,5 +1,7 @@
 import React from 'react';
-
+// import { combineReducers, createStore } from 'redux';
+// import { Provider } from 'react-redux';
+// import * as reducers from './state/reducers';
 import Header from './components/Header';
 import AddedFeatures from './components/AddedFeatures';
 import AdditionalFeatures from './components/AdditionalFeatures';
